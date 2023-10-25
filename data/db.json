@@ -1,0 +1,43 @@
+{
+    "recipes" : [
+        {
+        "id":"1",
+        "title":"Veggie Stew",
+        "ingredients": [
+            "1 Carrot",
+            "1 Leek",
+            "200g Tofu",
+            "300ml Veg stock"
+        ],
+        
+        "method" : "1.Pre-heat the oven",
+        "cookingTime":"30 minutes"
+    },
+        {
+        "id":"2",
+        "title":"Veggie Pizza",
+        "ingredients": [
+            "1 Base",
+            "Tomato Pasta",
+            "1 Green pepper",
+            "100g Mushrooms"
+        ],
+        
+        "method" : "1.Pre-heat the oven",
+        "cookingTime":"45 minutes"
+    },
+        {
+        "id":"3",
+        "title":"Greek Salad",
+        "ingredients": [
+            "1 Onion",
+            "1 Block of Feta",
+            "Olives",
+            "Tomatoes"
+        ],
+        
+        "method" : "1.Pre-heat the oven",
+        "cookingTime":"50 minutes"
+    }
+    ]
+}
